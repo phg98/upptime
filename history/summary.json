@@ -2,6 +2,7 @@
   {
     "name": "HacktoberfestKorea",
     "url": "https://www.hacktoberfestkorea.com",
+    "icon": "https://favicons.githubusercontent.com/www.hacktoberfestkorea.com",
     "slug": "hacktoberfest-korea",
     "status": "up",
     "uptime": "100.00%",
@@ -9,10 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 213,
-    "timeWeek": 143,
+    "time": 136,
+    "timeDay": 113,
+    "timeWeek": 135,
     "timeMonth": 135,
-    "timeYear": 137
+    "timeYear": 136,
+    "dailyMinutesDown": {}
   }
 ]
