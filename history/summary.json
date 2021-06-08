@@ -4,17 +4,19 @@
     "url": "https://www.hacktoberfestkorea.com",
     "icon": "https://favicons.githubusercontent.com/www.hacktoberfestkorea.com",
     "slug": "hacktoberfest-korea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 179,
-    "timeWeek": 144,
-    "timeMonth": 147,
+    "timeDay": 174,
+    "timeWeek": 147,
+    "timeMonth": 148,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   }
 ]
