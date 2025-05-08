@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hacktoberfestkorea.com.ico",
     "slug": "hacktoberfest-korea",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 297,
-    "timeDay": 301,
-    "timeWeek": 291,
-    "timeMonth": 324,
-    "timeYear": 299,
+    "timeDay": 285,
+    "timeWeek": 300,
+    "timeMonth": 307,
+    "timeYear": 300,
     "dailyMinutesDown": {}
   }
 ]
