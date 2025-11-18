@@ -4,19 +4,17 @@
     "url": "https://www.hacktoberfestkorea.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.hacktoberfestkorea.com.ico",
     "slug": "hacktoberfest-korea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 342,
-    "timeDay": 260,
-    "timeWeek": 374,
-    "timeMonth": 377,
-    "timeYear": 360,
-    "dailyMinutesDown": {
-      "2025-11-18": 14
-    }
+    "timeDay": 208,
+    "timeWeek": 342,
+    "timeMonth": 367,
+    "timeYear": 359,
+    "dailyMinutesDown": {}
   }
 ]
